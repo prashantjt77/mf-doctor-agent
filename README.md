@@ -67,7 +67,7 @@ OPENAI_API_KEY="sk-proj-..."
 ```
 4. Deploy!
 
-### 📊 Evaluation (Add this - gets you hired)
+### 📊 Evaluation  
 Tested on 20 sample portfolios:
 - Citation Accuracy: 95% (every NAV has date + source)
 - Avg Latency: 12-18 sec
@@ -76,12 +76,6 @@ Tested on 20 sample portfolios:
 
 ### ⚠️ Compliance
 > This tool is for **educational analysis only**. It is NOT SEBI-registered investment advice. Data sourced from AMFI. Past performance does not guarantee future returns. Consult SEBI Registered Investment Advisor (RIA).
-
-### 🔮 Next Version (Roadmap for Interview)
-- [ ] Parse CAS PDF via PyMuPDF
-- [ ] RAG over 50 factsheet PDFs (Chroma)
-- [ ] XIRR Calculator
-- [ ] LangSmith tracing dashboard
-
+ 
 ---
 **Try the Live App and give feedback!**
