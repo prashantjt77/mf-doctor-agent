@@ -156,7 +156,7 @@ with st.sidebar:
     st.divider()
     st.markdown("### 🏦 About FinEdge Capital (Dummy BFSI)")
     st.caption("Mumbai BKC based AMC partner • SEBI Reg: INA000012345 • AUM ₹2,450 Cr+ • This is a demo project by prashantjt77 for BFSI AI roles • Live data from mfapi.in (AMFI official)")
-    st.caption("For interviews: Shows Agentic RAG, Live Tools, SEBI Guardrails")
+    st.caption("Shows Agentic RAG, Live Tools, SEBI Guardrails")
 
 # MAIN INPUT - Light & Self-Explanatory
 col1, col2 = st.columns([2.2, 1])
@@ -206,7 +206,7 @@ with col2:
         ✅ <b>Sector Concentration</b> — e.g. 40% Financials<br>
         ✅ <b>SEBI Compliance</b> — Expense ratio, leverage check<br>
         ✅ <b>Action</b> — HOLD / REDUCE / SWITCH<br><br>
-        <span style="background:#EFF6FF; border:1px solid #BFDBFE; padding:6px 10px; border-radius:8px; font-size:11px; color:#1D4ED8; font-weight:700;">No OpenAI key needed — Demo mode works for interviews</span>
+        <span style="background:#EFF6FF; border:1px solid #BFDBFE; padding:6px 10px; border-radius:8px; font-size:11px; color:#1D4ED8; font-weight:700;">No OpenAI key needed — Demo mode </span>
         </div>
         """, unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
