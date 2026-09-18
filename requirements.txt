@@ -1,11 +1,1 @@
-streamlit==1.38.0
-langchain==0.3.7
-langchain-openai==0.2.8
-langchain-community==0.3.7
-langgraph==0.2.39
-mftool==1.0.16
-pandas==2.2.3
-pymupdf==1.24.11
-tavily-python==0.5.3
-python-dotenv==1.0.1
-requests==2.32.3
+[STRIPPED 102 bytes]
