@@ -9,6 +9,7 @@ Description: Built Agentic RAG AI Agent that audits 2-6 mutual fund portfolios
              SEBI compliant board-ready report.
 
 Author: Prashant Tripathi
+GitHub: https://github.com/prashantjt77/finedge-ai
 Demo: https://mf-doctor-agen-pea2hv3mq2k9autbbew67u.streamlit.app/
 Copyright: Copyright (c) 2025 Prashant Tripathi. All Rights Reserved.
 Contact: prashantjt77@yahoo.com
@@ -25,6 +26,7 @@ Version: 9.0 - Light Professional - BFSI Grade
 __author__ = "Prashant Tripathi"
 __copyright__ = "Copyright (c) 2025 Prashant Tripathi"
 __contact__ = "prashantjt77@yahoo.com"
+__github__ = "https://github.com/prashantjt77/finedge-ai"
 __demo__ = "https://mf-doctor-agen-pea2hv3mq2k9autbbew67u.streamlit.app/"
 __version__ = "9.0.0"
 
